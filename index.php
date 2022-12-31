@@ -8,3 +8,4 @@ include "apps/libs/Loader.php";
 include "apps/libs/Controller.php";
 include "apps/libs/View.php";
 $lobj=new Loader();
+echo "hi from rohan kunal sanyam"
